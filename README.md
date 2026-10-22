@@ -32,12 +32,12 @@
   <table>
     <tr>
       <td>
-        <a href="https://github.com/carloseduardonit">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloseduardonit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt = "Commits"/>
+        <a href="https://github.com/jarinarciso">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jarinarciso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt = "Commits"/>
         </a>
       </td>
       <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardonit&layout=compact&langs_count=16&theme=dracula" alt = "linguagem" />
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarinarciso&layout=compact&langs_count=16&theme=dracula" alt = "linguagem" />
       </td>
     </tr>
   </table>
@@ -60,7 +60,11 @@ public class HelloWorld {
 
 </summary>
 
-> [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/Carlaol) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?1=pt_BR&phone=5521985745077) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carlostecnico@mail.com) [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/Carlao_Me_Ajuda) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlao.me.ajuda/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carloseduardonit/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@carloseduardonit/) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white)](https://trailblazer.me/id/cdossantosfigueiredo) [![Lattes](https://sites.ufpe.br/gepifhri/wp-content/uploads/sites/86/2020/12/cnpq-logo-300x128.png)](https://lattes.cnpq.br/9263001556650541)
+> [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?1=pt_BR&phone=553491136638)
+> [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:jari.almeida@mail.com)
+> [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jarinarcisoz/)
+> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jarinarciso/)
+> [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jarinarciso/)
 </details>
 
 ---
@@ -73,7 +77,7 @@ public class HelloWorld {
 
 </summary>
 
-<p style="text-align: justify">  𝑬𝒖 𝒔𝒐𝒖 𝑪𝒂𝒓𝒍𝒐𝒔 𝑬𝒅𝒖𝒂𝒓𝒅𝒐 𝒅𝒐𝒔 𝑺𝒂𝒏𝒕𝒐𝒔 𝑭𝒊𝒈𝒖𝒆𝒊𝒓𝒆𝒅𝒐, 𝒖𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒂́𝒓𝒊𝒐 𝒆𝒎 𝑪𝒊𝒆̂𝒏𝒄𝒊𝒂𝒔 𝑪𝒐𝒏𝒕𝒂́𝒃𝒆𝒊𝒔 𝒑𝒆𝒍𝒂 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒅𝒂𝒅𝒆 𝑭𝒆𝒅𝒆𝒓𝒂𝒍 𝑭𝒍𝒖𝒎𝒊𝒏𝒆𝒏𝒔𝒆 (𝑼𝑭𝑭) 𝒆 𝒇𝒐𝒓𝒎𝒂𝒅𝒐 𝒆𝒎 𝑨𝒏𝒂́𝒍𝒊𝒔𝒆 𝒆 𝑫𝒆𝒔𝒆𝒏𝒗𝒐𝒍𝒗𝒊𝒎𝒆𝒏𝒕𝒐 𝒅𝒆 𝑺𝒊𝒔𝒕𝒆𝒎𝒂𝒔 𝒑𝒆𝒍𝒂 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒅𝒂𝒅𝒆 𝑬𝒔𝒕𝒂́𝒄𝒊𝒐 𝒅𝒆 𝑺𝒂́. 𝑨𝒍𝒆́𝒎 𝒅𝒊𝒔𝒔𝒐, 𝒄𝒐𝒏𝒄𝒍𝒖𝒊́ 𝒄𝒖𝒓𝒔𝒐𝒔 𝒕𝒆́𝒄𝒏𝒊𝒄𝒐𝒔 𝒆𝒎 𝑺𝒖𝒑𝒐𝒓𝒕𝒆 𝒆 𝑴𝒂𝒏𝒖𝒕𝒆𝒏𝒄̧𝒂̃𝒐 𝒆𝒎 𝑰𝒏𝒇𝒐𝒓𝒎𝒂́𝒕𝒊𝒄𝒂 𝒆 𝑪𝒐𝒏𝒕𝒂𝒃𝒊𝒍𝒊𝒅𝒂𝒅𝒆 𝒑𝒆𝒍𝒐 𝑺𝒆𝒏𝒂𝒄 𝑹𝑱.
+<p style="text-align: justify">  𝑬𝒖 𝒔𝒐𝒖 Jari Narciso de Almeida e Cruz, formado 𝒆𝒎 𝑪𝒊𝒆̂𝒏𝒄𝒊𝒂𝒔 da Computação 𝒑𝒆𝒍𝒂 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒅𝒂𝒅𝒆 𝑭𝒆𝒅𝒆𝒓𝒂𝒍 de Uberlândia (𝑼𝑭U) 𝒆 𝒇𝒐𝒓𝒎𝒂𝒅𝒐 𝒆𝒎 𝑨𝒏𝒂́𝒍𝒊𝒔𝒆 𝒆 𝑫𝒆𝒔𝒆𝒏𝒗𝒐𝒍𝒗𝒊𝒎𝒆𝒏𝒕𝒐 𝒅𝒆 𝑺𝒊𝒔𝒕𝒆𝒎𝒂𝒔 𝒑𝒆𝒍𝒂 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒅𝒂𝒅𝒆 𝑬𝒔𝒕𝒂́𝒄𝒊𝒐 𝒅𝒆 𝑺𝒂́. 𝑨𝒍𝒆́𝒎 𝒅𝒊𝒔𝒔𝒐, 𝒄𝒐𝒏𝒄𝒍𝒖𝒊́ 𝒄𝒖𝒓𝒔𝒐𝒔 𝒕𝒆́𝒄𝒏𝒊𝒄𝒐𝒔 𝒆𝒎 𝑺𝒖𝒑𝒐𝒓𝒕𝒆 𝒆 𝑴𝒂𝒏𝒖𝒕𝒆𝒏𝒄̧𝒂̃𝒐 𝒆𝒎 𝑰𝒏𝒇𝒐𝒓𝒎𝒂́𝒕𝒊𝒄𝒂 𝒆 𝑪𝒐𝒏𝒕𝒂𝒃𝒊𝒍𝒊𝒅𝒂𝒅𝒆 𝒑𝒆𝒍𝒐 𝑺𝒆𝒏𝒂𝒄 𝑹𝑱.
 </p>
 <p style="text-align: justify">𝑬𝒖 𝒂𝒕𝒖𝒆𝒊 𝒄𝒐𝒎𝒐 𝑸𝑨 𝒎𝒂𝒏𝒖𝒂𝒍 𝒄𝒐𝒎 𝒇𝒐𝒄𝒐 𝒆𝒎 𝑺𝒂𝒍𝒆𝒔𝒇𝒐𝒓𝒄𝒆, 𝒐𝒏𝒅𝒆 𝒇𝒖𝒊 𝒓𝒆𝒔𝒑𝒐𝒏𝒔𝒂́𝒗𝒆𝒍 𝒑𝒐𝒓 𝒈𝒂𝒓𝒂𝒏𝒕𝒊𝒓 𝒂 𝒒𝒖𝒂𝒍𝒊𝒅𝒂𝒅𝒆 𝒅𝒂𝒔 𝒔𝒐𝒍𝒖𝒄̧𝒐̃𝒆𝒔 𝒅𝒆𝒔𝒆𝒏𝒗𝒐𝒍𝒗𝒊𝒅𝒂𝒔 𝒅𝒆𝒏𝒕𝒓𝒐 𝒅𝒐 𝒆𝒄𝒐𝒔𝒔𝒊𝒔𝒕𝒆𝒎𝒂 𝑺𝒂𝒍𝒆𝒔𝒇𝒐𝒓𝒄𝒆. 𝑴𝒊𝒏𝒉𝒂𝒔 𝒂𝒕𝒊𝒗𝒊𝒅𝒂𝒅𝒆𝒔 𝒊𝒏𝒄𝒍𝒖𝒊́𝒓𝒂𝒎 𝒂 𝒄𝒓𝒊𝒂𝒄̧𝒂̃𝒐 𝒅𝒆 𝒄𝒆𝒏𝒂́𝒓𝒊𝒐𝒔 𝒅𝒆 𝒕𝒆𝒔𝒕𝒆, 𝒆𝒙𝒆𝒄𝒖𝒄̧𝒂̃𝒐 𝒅𝒆 𝒕𝒆𝒔𝒕𝒆𝒔 𝒎𝒂𝒏𝒖𝒂𝒊𝒔 𝒆 𝒗𝒂𝒍𝒊𝒅𝒂𝒄̧𝒂̃𝒐 𝒅𝒆 𝒇𝒖𝒏𝒄𝒊𝒐𝒏𝒂𝒍𝒊𝒅𝒂𝒅𝒆𝒔 𝒑𝒂𝒓𝒂 𝒂𝒔𝒔𝒆𝒈𝒖𝒓𝒂𝒓 𝒒𝒖𝒆 𝒐𝒔 𝒓𝒆𝒒𝒖𝒊𝒔𝒊𝒕𝒐𝒔 𝒅𝒐 𝒔𝒊𝒔𝒕𝒆𝒎𝒂 𝒇𝒐𝒔𝒔𝒆𝒎 𝒂𝒕𝒆𝒏𝒅𝒊𝒅𝒐𝒔 𝒄𝒐𝒏𝒇𝒐𝒓𝒎𝒆 𝒆𝒔𝒑𝒆𝒓𝒂𝒅𝒐. 𝑻𝒓𝒂𝒃𝒂𝒍𝒉𝒆𝒊 𝒏𝒂 𝒊𝒏𝒕𝒆𝒈𝒓𝒂𝒄̧𝒂̃𝒐 𝒅𝒆 𝒔𝒊𝒔𝒕𝒆𝒎𝒂𝒔 𝒆 𝒏𝒂 𝒊𝒎𝒑𝒍𝒆𝒎𝒆𝒏𝒕𝒂𝒄̧𝒂̃𝒐 𝒅𝒆 𝒔𝒐𝒍𝒖𝒄̧𝒐̃𝒆𝒔 𝒓𝒐𝒃𝒖𝒔𝒕𝒂𝒔, 𝒖𝒕𝒊𝒍𝒊𝒛𝒂𝒏𝒅𝒐 𝒕𝒂𝒏𝒕𝒐 𝒐𝒃𝒋𝒆𝒕𝒐𝒔 𝒑𝒂𝒅𝒓𝒂̃𝒐 𝒒𝒖𝒂𝒏𝒕𝒐 𝒑𝒆𝒓𝒔𝒐𝒏𝒂𝒍𝒊𝒛𝒂𝒅𝒐𝒔 𝒏𝒐 𝑺𝒂𝒍𝒆𝒔𝒇𝒐𝒓𝒄𝒆, 𝒔𝒆𝒎𝒑𝒓𝒆 𝒎𝒂𝒏𝒕𝒆𝒏𝒅𝒐 𝒖𝒎𝒂 𝒂𝒃𝒐𝒓𝒅𝒂𝒈𝒆𝒎 𝒐𝒓𝒊𝒆𝒏𝒕𝒂𝒅𝒂 𝒂̀ 𝒒𝒖𝒂𝒍𝒊𝒅𝒂𝒅𝒆 𝒆 𝒂̀ 𝒎𝒆𝒍𝒉𝒐𝒓𝒊𝒂 𝒄𝒐𝒏𝒕𝒊́𝒏𝒖𝒂.
 </p>
